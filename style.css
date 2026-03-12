@@ -1,0 +1,12 @@
+.title {
+  color: #1647ce;
+  text-align: left;
+}
+
+.photo-frame {
+  overflow: hidden;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  border: 5px solid green;
+}
